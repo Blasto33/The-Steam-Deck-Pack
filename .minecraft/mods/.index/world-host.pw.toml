@@ -1,0 +1,13 @@
+filename = 'world-host-0.4.10+1.20.4-fabric.jar'
+name = 'World Host'
+side = 'both'
+
+[download]
+hash = '5f3952e9bb4a158d7ecd7cfdcdfee78e4f8a147f7bfcaf49976d9c81d93534098c7b08974b115c39e098964d9ed82f97703f4f13ff9d9dd6c84d907a4fdf9198'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/2AIZDfYo/versions/4T6rpvpc/world-host-0.4.10%2B1.20.4-fabric.jar'
+
+[update.modrinth]
+mod-id = '2AIZDfYo'
+version = '4T6rpvpc'

@@ -1,0 +1,13 @@
+filename = 'advancementinfo-1.20.4-fabric0.91.2-1.4.jar'
+name = 'AdvancementInfo'
+side = 'both'
+
+[download]
+hash = '69972a967c73d5f091be9349e237fc73edb0ad1b93664c3282b23e00307cffc242f0fd5802a013efa441d25356332de0044255bda10c0408989d0578dff2999d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/G1epq3jN/versions/gq5isc7f/advancementinfo-1.20.4-fabric0.91.2-1.4.jar'
+
+[update.modrinth]
+mod-id = 'G1epq3jN'
+version = 'gq5isc7f'

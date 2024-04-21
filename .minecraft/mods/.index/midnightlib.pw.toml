@@ -1,0 +1,13 @@
+filename = 'midnightlib-fabric-1.5.3.jar'
+name = 'MidnightLib'
+side = 'both'
+
+[download]
+hash = '58e0434c7b97d57b6ed6aa818040ebbcc525139fbfadbf9b38f82d7d4d4e1f707165da6f9e2aba9144ad16465db8a0e59c4f53e6dd092fd7cd7686523d9bc22b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/codAaoxh/versions/EQNuBJf5/midnightlib-fabric-1.5.3.jar'
+
+[update.modrinth]
+mod-id = 'codAaoxh'
+version = 'EQNuBJf5'

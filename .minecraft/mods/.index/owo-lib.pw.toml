@@ -1,0 +1,13 @@
+filename = 'owo-lib-0.12.6+1.20.3.jar'
+name = 'oωo'
+side = 'both'
+
+[download]
+hash = 'e47b9367ff84435c7043c21c58720c1e7049766dedaa305c6380a8cc6bab4f8ae49d781ecea533e00ebad9ba278372bc4cb8dd8d6eea7fd79244628aeba74e13'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ccKDOlHs/versions/Her7Z3CG/owo-lib-0.12.6%2B1.20.3.jar'
+
+[update.modrinth]
+mod-id = 'ccKDOlHs'
+version = 'Her7Z3CG'

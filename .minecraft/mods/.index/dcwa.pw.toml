@@ -1,0 +1,13 @@
+filename = 'DisableCustomWorldsAdvice-5.0.jar'
+name = 'Disable Custom Worlds Advice'
+side = 'both'
+
+[download]
+hash = '982543e17888dbddedc4083d521fbc5e4f056c02c30b0b6fc8dbee59f0cb6807de69906a6837e39293256466a4fb76047709cf6f780350a8287ed23756f40a7e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HdwRs3kc/versions/XAkpyJL8/DisableCustomWorldsAdvice-5.0.jar'
+
+[update.modrinth]
+mod-id = 'HdwRs3kc'
+version = 'XAkpyJL8'

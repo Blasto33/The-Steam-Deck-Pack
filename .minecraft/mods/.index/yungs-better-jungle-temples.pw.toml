@@ -1,0 +1,13 @@
+filename = 'YungsBetterJungleTemples-1.20.4-Fabric-2.4.1.jar'
+name = "YUNG's Better Jungle Temples"
+side = 'both'
+
+[download]
+hash = '5cc5eb34c93a918c3a40f14c7d2ec08757eb278be1e045df78acdc47ee8fba0d476e5aad52ab22ee6344867e300f35430896089091b10224d29aab486ada5a67'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/z9Ve58Ih/versions/csNNUblm/YungsBetterJungleTemples-1.20.4-Fabric-2.4.1.jar'
+
+[update.modrinth]
+mod-id = 'z9Ve58Ih'
+version = 'csNNUblm'

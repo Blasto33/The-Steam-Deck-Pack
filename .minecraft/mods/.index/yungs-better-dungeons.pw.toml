@@ -1,0 +1,13 @@
+filename = 'YungsBetterDungeons-1.20.4-Fabric-4.4.2.jar'
+name = "YUNG's Better Dungeons"
+side = 'both'
+
+[download]
+hash = 'c7eda8259db6557f45edef6010d57c0ff1aca0ceef44cc2cf79259ca024fac555d92eca34821240a9ee32e4aa4f06dc7b952d139b1a528a4a7a09438b0a868ce'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/o1C1Dkj5/versions/y2Ahguul/YungsBetterDungeons-1.20.4-Fabric-4.4.2.jar'
+
+[update.modrinth]
+mod-id = 'o1C1Dkj5'
+version = 'y2Ahguul'

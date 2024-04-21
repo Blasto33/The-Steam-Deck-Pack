@@ -1,0 +1,13 @@
+filename = 'dynamiccrosshair-7.7+1.20.4-fabric.jar'
+name = 'Dynamic Crosshair'
+side = 'both'
+
+[download]
+hash = '59a90d65d260bca18bf5b228a4bd8bbaf7ad3c544679577fb8d722c71bb50eed534023b9fb84d3ebbf6ade4b5893ece2646b5b0c0a77f91de1db10d76bb22993'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ZcR9weSm/versions/UrOG4IKT/dynamiccrosshair-7.7%2B1.20.4-fabric.jar'
+
+[update.modrinth]
+mod-id = 'ZcR9weSm'
+version = 'UrOG4IKT'

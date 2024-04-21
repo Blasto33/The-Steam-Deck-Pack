@@ -1,0 +1,13 @@
+filename = 'AdvancementPlaques-1.20.4-fabric-1.5.1.jar'
+name = 'Advancement Plaques'
+side = 'both'
+
+[download]
+hash = '24f5b17769b42c52692a77e8f07bac3b68e84b71f8f64baaa47a913b303ab3eaad29a16a01d125a90b783aa19121c66f2f628e1cfb7dee23b62d75cbe332ef77'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9NM0dXub/versions/wDGTVjTo/AdvancementPlaques-1.20.4-fabric-1.5.1.jar'
+
+[update.modrinth]
+mod-id = '9NM0dXub'
+version = 'wDGTVjTo'

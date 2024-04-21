@@ -1,0 +1,13 @@
+filename = 'Jade-1.20.4-fabric-13.3.1.jar'
+name = 'Jade'
+side = 'both'
+
+[download]
+hash = 'bf0fb45db3b73686a071355866230805b9d51912c13f5745041604b617475bbf036db0ef9bbef469240efed3a92839ec0fcf44ed8705e49b7323f68cd714a197'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nvQzSEkH/versions/fNHCa6bl/Jade-1.20.4-fabric-13.3.1.jar'
+
+[update.modrinth]
+mod-id = 'nvQzSEkH'
+version = 'fNHCa6bl'

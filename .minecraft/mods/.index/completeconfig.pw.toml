@@ -1,0 +1,13 @@
+filename = 'completeconfig-2.5.3.jar'
+name = 'CompleteConfig'
+side = 'both'
+
+[download]
+hash = '2402647e8e41561e611003074e9e3c5070e2476ab4400bd88f0d1270963a3cdf3f06fd716ec9401f682c4f4a0f5beafa1c71822b4db48dceaf81986e81e434fc'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/GtqG8z1h/versions/lvqqK55F/completeconfig-2.5.3.jar'
+
+[update.modrinth]
+mod-id = 'GtqG8z1h'
+version = 'lvqqK55F'

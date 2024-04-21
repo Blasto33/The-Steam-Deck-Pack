@@ -1,0 +1,13 @@
+filename = 'YungsApi-1.20.4-Fabric-4.4.2.jar'
+name = "YUNG's API"
+side = 'both'
+
+[download]
+hash = 'e67281d1759d439888b77d5f766339ccbe4e69e130b8b49739cd710b82c231f2dfbca40a32ae3ac4c654ab6833a4b3ddc9cf93988c01c8bb694a72cf0b270b1f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Ua7DFN59/versions/RXxBbRs7/YungsApi-1.20.4-Fabric-4.4.2.jar'
+
+[update.modrinth]
+mod-id = 'Ua7DFN59'
+version = 'RXxBbRs7'

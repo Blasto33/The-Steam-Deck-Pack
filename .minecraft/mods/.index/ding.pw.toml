@@ -1,0 +1,13 @@
+filename = 'Ding-1.20.1-Fabric-1.4.1.jar'
+name = 'Ding'
+side = 'client'
+
+[download]
+hash = 'e7a2d826d0e3e944084ec44b74ab9ba6d60d61a649eac6ef65fc8f00fa6f343f90239088b9991174d3e3b3105bc4e3f41fceb9f0a7adc72a8d55d5f4de45ef32'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UEtTD3gP/versions/HBLM82MU/Ding-1.20.1-Fabric-1.4.1.jar'
+
+[update.modrinth]
+mod-id = 'UEtTD3gP'
+version = 'HBLM82MU'

@@ -1,0 +1,13 @@
+filename = 'modmenu-9.1.0-beta.1.jar'
+name = 'Mod Menu'
+side = 'both'
+
+[download]
+hash = '03efc2e7a0ef2b4128c16f648feaaadf4df1c747f2d2d3dbe918b15a5b6bbd8204c0e1f6e2c42e9104fad991cb6fe61553379bc02893ddc3f7e153c37ae7593b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/mOgUt4GM/versions/w3icASIi/modmenu-9.1.0-beta.1.jar'
+
+[update.modrinth]
+mod-id = 'mOgUt4GM'
+version = 'w3icASIi'

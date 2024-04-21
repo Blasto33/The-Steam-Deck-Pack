@@ -1,0 +1,13 @@
+filename = 'Prism-1.20.4-fabric-1.0.6.jar'
+name = 'Prism'
+side = 'both'
+
+[download]
+hash = '54848d48df536b1366a2abfe227e2711f2df3f8dc080d22edca18d952c7bb9f12e2427a3c077ad05fbe3618bdd9a5722ca7692c2d80499ecd6371b5d015e7917'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1OE8wbN0/versions/4PcfwwpA/Prism-1.20.4-fabric-1.0.6.jar'
+
+[update.modrinth]
+mod-id = '1OE8wbN0'
+version = '4PcfwwpA'

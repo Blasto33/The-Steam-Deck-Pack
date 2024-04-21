@@ -1,0 +1,13 @@
+filename = 'SnowUnderTrees-2.2.0+1.20.4.jar'
+name = 'Snow Under Trees'
+side = 'both'
+
+[download]
+hash = 'ed0f83027b1112a5e2ac036a6c0b49ad58e702b4bd95826390dadb126e77f7739a4e3f1e32002af5b4f9f6c44af1cfa3daef15490ea69ee774f56a4cd08f5c35'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XVnUIUAQ/versions/efcGbFlN/SnowUnderTrees-2.2.0%2B1.20.4.jar'
+
+[update.modrinth]
+mod-id = 'XVnUIUAQ'
+version = 'efcGbFlN'
