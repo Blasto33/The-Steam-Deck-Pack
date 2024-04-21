@@ -6,7 +6,7 @@
       <img src="https://img.shields.io/badge/API-Fabric-blue"></img>
     </a>
     <a href="https://modrinth.com/modpack/minecraft-steam-deck-edition">
-      <img src="https://img.shields.io/badge/Current_working_version-1.20.1-yellow"></img>
+      <img src="https://img.shields.io/badge/Current_working_version-1.20.4-yellow"></img>
     </a>
     <a href="https://modrinth.com/modpack/minecraft-steam-deck-edition)https://modrinth.com/modpack/minecraft-steam-deck-edition">
       <img src="https://img.shields.io/badge/Status-maintained-green"></img>
